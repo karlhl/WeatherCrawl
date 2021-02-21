@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98fe8f91-36fb-42f8-af15-e84df4d63975" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="7c955530-478e-484e-8ab2-602014bdddf1" />
+  <component name="ProjectId" id="1jh1QI16Cepy83KdDy8vJ1oVUqW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fe8f91-36fb-42f8-af15-e84df4d63975" name="默认的" comment="" />
+      <created>1604241491957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604241491957</updated>
+      <workItem from="1604241493006" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="814" y="316" key="FileChooserDialogImpl" timestamp="1604241592682">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="814" y="316" key="FileChooserDialogImpl/0.0.2065.1122/2560.0.1549.831@0.0.2065.1122" timestamp="1604241592682" />
+  </component>
+</project>
